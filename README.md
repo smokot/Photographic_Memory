@@ -18,3 +18,11 @@
 
 ![Снимок](https://user-images.githubusercontent.com/58879890/146320938-6a719124-8855-4eab-8e6c-55f308630895.PNG)
 ![Снимок](https://user-images.githubusercontent.com/58879890/146320971-cd2f2cd7-c209-47cb-a312-d8786a6e71dc.PNG)
+
+
+## Reverse word  ##
+
+![image](https://user-images.githubusercontent.com/58879890/146321212-1f65dcb1-f6fc-48a5-8c8b-4177e3a4a037.png)
+
+![image](https://user-images.githubusercontent.com/58879890/146321262-664c06d4-e83b-4960-8e70-81c0d15c045f.png)
+
