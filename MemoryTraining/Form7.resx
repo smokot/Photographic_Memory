@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Вы не должны проговаривать, обьекты/слова/цвета и т.д.
+Оценивая всё только взглядом
+
+
+Мы тренируем фотографическую память, а для этого нужно чтобы оба полушария работали максимально синхронно, конкретно используется больше всего левое, медленное-логическое, мы же будем развивать правое полушарие, которое работает намного быстрее, перед началом тренировок лучше всегда выполнять упражнения, можно пару раз в день(желательно), упражнения указаны ниже
+
+
+
+
+
+
+1)кулак-ладонь (50 раз)
+2)ухо-нос (40 раз)
+3)капитанское(козырёк-ок) (40 раз)
+4)ладонь вперёд - ок (40 раз)
+5)2 пальца - окей(победитель) (30 раз)
+6)пистолетики (40 раз)
+7)рожки-ножки (20 раз)
+8)пазлики(пистолеты) (40 раз)
+9)проход по всем пальцам  (40 раз)
+10)сытый-дурак (30)
+
+
+1) кулак-ладонь = ставим правую руку, будто вы хотите спросить что-то у учителя, а левую подставляем под локоть правой, в левой руке должна быть ладонь, далее хлопок в ладоши и меняем руки
+
+2) ухо-нос = правой рукой берёмся за нос, левой берёмся за правое ухо, делаем хлопок в ладоши и меняем руки, левая рука за нос, а правая рука за левое ухо
+
+3) капитанское = правой рукой делаем козырёк, будто мы смотрим в даль, левой рукой показываем большой палец вверх(ОК), далее хлопок в ладоши и меняем руки
+
+4) ладонь-ок = правой рукой выпрямляем ладонь, будто вы показываете направление, большой палец должен быть прижат к середине ладони(примерно), левой рукой показываем большой палец вверх(ОК), хлопок в ладоши и меняем руки
+
+5) победитель = правой рукой показываем большой палец вверх(ОК), левой рукой показываем 2 пальца(средний и указательный) вверх, хлопок в ладоши и меняем руки
+
+6) пистолетики = возьми правую руку будто это пистолетик(как в детстве), и в левую, далее хлопок и нужно положить только один палец правой руки, на два пальца левой, хлопок и меняем руки
+
+7) рожки-ножкжи = правой рукой показываем ножки(человечка, указательный и средний пальцы вниз), а левой рожки(РОК-Н-РОЛЛ), хлопок и меняем руки
+
+8) пазлики = в правой руке указательный и средний палец прямо, остальные загнуть, на левой руке безымянный и мезинец прямо, остальные загнуть, соединяем их, делаем хлопок и меняем руки
+
+9) проход = правая рука, берём указательный палец и кладём на большой палец левой руки, потом большой палец правой кладём на указательный палец левой, далее большой палец левой руки на средний палец правой руки, а большой правой руки на средний левой, большой палец левой руки на безымянный правой, и большой палец правой руки на безымянный левой руки, доходим до конца, делаем хлопок, и идём в обратном направлении
+
+10) сытый дурак = правой рукой делаем круговые движения по животу(наелся), а левой рукой стучим по голове(тихонько только), меняем ритм и руки, и стороны вращения
+
+
+
+
+
+
+После выполнения упражнений, играем в игры которые есть в программе, на данный момент 4 игры
+Желательно играть не менее 5 минут в день
+
+Ниже приведены примеры подходов, такого кол-ва в день хватит, для лучшего эффекта соответственно увеличиваем подходы
+1)Reverse word - 13 раз
+
+2)Matrix flash memory - 20 раз
+
+3)Matrix color memory - 10 раз
+
+4)Matrix object memory - 10 раз
+
+
+
+
+
+
+
+</value>
+  </data>
+</root>

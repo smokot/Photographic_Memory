@@ -1,0 +1,16 @@
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\bin\Debug\MemoryTraining.exe.config
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\bin\Debug\MemoryTraining.exe
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\bin\Debug\MemoryTraining.pdb
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.csprojAssemblyReference.cache
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form1.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Properties.Resources.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.csproj.GenerateResource.cache
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.csproj.CoreCompileInputs.cache
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.exe
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.pdb
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form2.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form3.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form4.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form5.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form6.resources
+C:\Users\5fwaf\source\repos\MemoryTraining\MemoryTraining\obj\Debug\MemoryTraining.Form7.resources
